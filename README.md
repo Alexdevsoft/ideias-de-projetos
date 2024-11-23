@@ -1,11 +1,10 @@
-## 👇 **Practice Daily on iCodeThis.com** 👇
+## 👇 **Pratique diariamente no iCodeThis.com** 👇
 
 [![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
 
-# :ledger: App Ideas Collection
+# :ledger: Coleção de ideias de App
 
-Have you ever wanted to build something but you had no idea what to do? Just as
-authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍
+Você já quis construir algo, mas não tinha ideia do que fazer? Assim como autores às vezes têm "bloqueio de escritor", isso também é verdade para desenvolvedores. Esta lista tem a intenção de resolver esse problema de uma vez por todas! 👍
 
 These applications are:
 
