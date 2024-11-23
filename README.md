@@ -6,13 +6,13 @@
 
 Você já quis construir algo, mas não tinha ideia do que fazer? Assim como autores às vezes têm "bloqueio de escritor", isso também é verdade para desenvolvedores. Esta lista tem a intenção de resolver esse problema de uma vez por todas! 👍
 
-These applications are:
+Essas aplicações são:
 
--   great for improving your coding skills :muscle:;
--   great for experimenting with new technologies 🆕;
--   great for adding to your portfolio to impress your next employer/client :file_folder:;
--   great for using as examples in tutorials (articles or videos) :page_with_curl:;
--   easy to complete and also easily extendable with new features :ok_hand:;
+-   ótimo para melhorar suas habilidades de codificação :muscle:;
+-   ótimo para experimentar novas tecnologias 🆕;
+-   ótimo para adicionar ao seu portfólio para impressionar seu próximo empregador/cliente :file_folder:;
+-   ótimo para usar como exemplos em tutoriais (artigos ou vídeos) :page_with_curl:;
+-   fácil de completar e também facilmente extensível com novos recursos :ok_hand:;
 
 This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
 
