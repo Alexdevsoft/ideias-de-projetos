@@ -14,9 +14,9 @@ Essas aplicações são:
 -   ótimo para usar como exemplos em tutoriais (artigos ou vídeos) :page_with_curl:;
 -   fácil de completar e também facilmente extensível com novos recursos :ok_hand:;
 
-This is not just a simple list of projects, but a collection that describes each project in enough detail so that you can develop it from the ground up!
+Esta não é apenas uma simples lista de projetos, mas uma coleção que descreve cada projeto com detalhes suficientes para que você possa desenvolvê-lo do zero!
 
-Each project has the following **features**:
+Cada projeto tem as seguintes **features**:
 
 1. A clear and descriptive objective;
 2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
