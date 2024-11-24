@@ -25,10 +25,9 @@ Cada projeto tem as seguintes **features**:
 
 Aqui você pode [assistir a um vídeo sobre este repositório](https://www.youtube.com/watch?v=TNzCfgwIDCY).
 
-## Projects
+## Projetos
 
-Projects are divided into three tiers based on the knowledge and experience
-required to complete them.
+Os projetos são divididos em três níveis com base no conhecimento e na experiência necessários para concluí-los.
 
 | Tier | Developer Profile                                                                                                                                                |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
