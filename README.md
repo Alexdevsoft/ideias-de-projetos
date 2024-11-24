@@ -18,12 +18,12 @@ Esta não é apenas uma simples lista de projetos, mas uma coleção que descrev
 
 Cada projeto tem as seguintes **features**:
 
-1. A clear and descriptive objective;
-2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
-4. All the resources and links to help you find what you need to complete the project
+1. Um objetivo claro e descritivo;
+2. Uma lista de _User Stories_ que devem ser implementadas (essas histórias funcionam mais como uma diretriz do que como uma lista forçada de _To-Do's_. Sinta-se à vontade para adicionar suas próprias histórias, se quiser);
+3. Uma lista de recursos bônus que não só melhoram o projeto base, mas também suas habilidades ao mesmo tempo (eles são opcionais e devem ser tentados somente após você ter concluído as histórias de usuário necessárias)
+4. Todos os recursos e links para ajudar você a encontrar o que precisa para concluir o projeto
 
-Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
+Aqui você pode [assistir a um vídeo sobre este repositório](https://www.youtube.com/watch?v=TNzCfgwIDCY).
 
 ## Projects
 
