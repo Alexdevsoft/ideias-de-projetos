@@ -29,11 +29,11 @@ Aqui você pode [assistir a um vídeo sobre este repositório](https://www.youtu
 
 Os projetos são divididos em três níveis com base no conhecimento e na experiência necessários para concluí-los.
 
-| Tier | Developer Profile                                                                                                                                                |
+| Camadas | Perfil do desenvolvedor                                                                                                                                       |
 | :--: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1   | Developers in the early stages of their learning journey. Those who are typically focused on creating user-facing applications.                                  |
-|  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
-|  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
+|  1   | Desenvolvedores nos estágios iniciais de sua jornada de aprendizado. Aqueles que normalmente estão focados em criar aplicativos voltados para o usuário.         |
+|  2   | Desenvolvedores em estágio intermediário de aprendizado e experiência. Eles se sentem confortáveis ​​em UI/UX, usando ferramentas de desenvolvimento e construindo apps que usam serviços de API. |
+|  3   | Desenvolvedores que possuem todos os itens acima e estão aprendendo técnicas mais avançadas, como implementação de aplicativos de back-end e serviços de banco de dados.  |
 
 🌟 - New Project
 
